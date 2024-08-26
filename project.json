@@ -24,7 +24,8 @@
         },
         "org.gluu.agama.sms.otp": {},
         "org.gluu.agama.register": {},
-        "com.example.newDesign": {}
+        "com.example.newDesign": {},
+        "com.gluu.testing.runner": {}
     },
     "name": "agama-sms"
 }
